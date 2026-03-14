@@ -9,6 +9,10 @@ export interface User {
 export class UserManager {
 
     addUser(user: User): void {
+      if (user.id != null)
+      {
+        
+      }
     }
 
     removeUser(id: string): void {

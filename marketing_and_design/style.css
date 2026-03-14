@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background: #000000;
+    /* background: linear-gradient(-33deg, #000000, #3b3939); */
+}
+
+img {
+    margin: 30px 0px;
+    border-radius: 5%;
+    box-shadow: 5px 5px #8080807F;
+}
+
+p {
+    margin: 0px 0px;
+    padding: 1px 1px;
+    border-radius: 2px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: left;
+}
+
+form>div {
+    margin-top: 10px;
+}
+
+form {
+    text-align: center;
+    margin-bottom: 30px;
+}
